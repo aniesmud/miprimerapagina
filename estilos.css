@@ -76,6 +76,9 @@ footer{
     min-height: 200px;
     background-color: #f1f1f1;
 }
+.greeting{
+    text-align: center;
+}
 @media(max-width: 768px){
     .column{
         flex: 100%;
